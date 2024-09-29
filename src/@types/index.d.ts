@@ -1,0 +1,3 @@
+type ReqItem = {
+  msg: string;
+}
